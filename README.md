@@ -1,1 +1,1 @@
-![image](https://github.com/danghieuliem/learn-animejs/assets/60537515/e04543b4-0dfc-4a89-88e2-803252cf76c4)
+![Screen Recording 2024-05-24 at 15 07 47](https://github.com/danghieuliem/learn-animejs/assets/60537515/b9155bba-d78f-4eb3-acaa-a10980fd1373)
